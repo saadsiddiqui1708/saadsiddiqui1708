@@ -10,7 +10,7 @@
 
 I'm a pre-final year Computer Science student at VIT Chennai with a deep interest in building intelligent, autonomous AI agents that can learn, adapt, and collaborate in real-world environments. I'm passionate about the intersection of AI, business strategy, and product.
 
-* I am the **President** of **180 Degrees Consulting VIT Chennai**, where I lead client acquisition, strategy formulation, and project execution for our pro-bono consulting projects[cite: 14, 22, 28].
+* I am the **President** of **180 Degrees Consulting VIT Chennai**, where I lead client acquisition, strategy formulation, and project execution for our pro-bono consulting projects.
 * I also serve as the **Research & Documentation Lead** at **V-NEST**, VIT Chennai's official startup incubator, working at the intersection of innovation, partnerships, and the startup ecosystem.
 * Previously, I was a **GTM Engineer Intern at Hooman Labs**, where I built and deployed production-grade voice AI agents.
 
